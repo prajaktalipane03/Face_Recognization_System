@@ -141,8 +141,14 @@ class Face_Recognition_System:
         b1.place(x=1100,y=380,width=220,height=220)
 
 
+
         b1_1=Button(bg_img,text="Exit",cursor="hand2",font=("times new roman",15,"bold"),bg="white",fg="red")
         b1_1.place(x=1100,y=580,width=220,height=40)
+
+        #msg passed successfully
+        
+        
+
         
         
         
